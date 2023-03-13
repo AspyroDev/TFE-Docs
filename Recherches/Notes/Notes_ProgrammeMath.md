@@ -43,17 +43,20 @@ Il faut donc :
 
 ### Dénombrer
 
-- **Organiser un comptage - Remplacer un comptage par une formule**
-  - Résoudre des problèmes de dénombrement dans des contextes numériques et géométriques.
-    - Analyser des suites de nombres et rechercher une formule pouvant remplacer un comptage.
-    - On utilisera une formule générale pour déterminer un nombre d'une suite.
-    - Dans l'étude de suites (nombres triangulaires, nombres carrés), on mettra l'accent sur l'élaboration de formules.
-      > Nombres polygonaux : Nombres que l'on peut représenter par un polygone régulier.
+#### Sujet : "Organiser un comptage - Remplacer un comptage par une formule"
+
+- Résoudre des problèmes de dénombrement dans des contextes numériques et géométriques.
+  - Analyser des suites de nombres et rechercher une formule pouvant remplacer un comptage.
+  - On utilisera une formule générale pour déterminer un nombre d'une suite.
+  - Dans l'étude de suites (nombres triangulaires, nombres carrés), on mettra l'accent sur l'élaboration de formules.
+
+> Nombres polygonaux : Nombres que l'on peut représenter par un polygone régulier.
 
 ### Lire et écrire
 
-~ *Nombres naturels, nombres décimaux positifs et fractions usuelles*
-> **Écrire un nombre sous ses différentes formes**
+#### Nombres naturels, nombres décimaux positifs et fractions usuelles
+
+##### Écrire un nombre sous ses différentes formes
 
 - Écrire et reconnaître un même nombre sous différentes formes.
   - Les notions *acquises à l'école primaire* relative à la numération seront *vérifiées et enrichies*.
@@ -73,9 +76,9 @@ Il faut donc :
 
 ### Repérer et classer
 
-~ *Nombres naturels, nombres décimaux positifs et fractions usuelles*
+#### Nombres naturels, nombres décimaux positifs et fractions usuelles
 
-> **Placer un nombre sur un axe peu importe sa forme**
+##### Placer un nombre sur un axe peu importe sa forme**
 
 - **Situer - Ordonner - Comparer**
   - Placer sur une droite graduée (un axe): des nombres naturels, des nombres décimaux, des fractions usuelles.
@@ -88,19 +91,20 @@ Il faut donc :
     - Les symboles "&lt;", "&le;", "&gt;" et "&ge;" seront utilisés.
   - Comparer entre eux des nombres décimaux positifs d'une même valeur, des fractions usuelles d'une même valeur, des fractions usuelles et des nombres décimaux d'une même valeur.
 
-~ *Nombres entiers*
+#### Nombres entiers
 
-- **Situer - Ordonner - Comparer**
-  - Placer les nombres entiers sur une droite graduée (un axe).
-    - Le classement des nombres se réfère de manière constante à l'ordre des naturels.
-  - Déterminer la valeur absolue d'un nombre entier.
-    - On montrera que la valeur abolue d'un nombre représente sa distance à l'origine de l'axe.
-  - Reconnaître et écrire deux nombres opposés.
-    - Faire remarquer que "-x" est l'opposé de "x" et qu'il ne désigne pas toujours un nombre négatif.
-  - Ranger en ordre croissant et décroissant des nombres entiers.
-  - Comparer deux nombres entiers.
-  - Placer un couple de nombres dans un repère cartésien.
-    - L'effet de quelques transformations sur les coordonnées pourra être mis en parallèle avec les opérations sur les entiers.
-      > Quelles sont les transformations possibles ? Quelles sont les opérations auxquelles ont doit les comparer ?
-    - Le repérage sur un quadrillage du plan pourra s'utiliser dans différentes parties du programme.
-      > Quelles parties ? De quel programme ?
+##### Situer - Ordonner - Comparer
+
+- Placer les nombres entiers sur une droite graduée (un axe).
+  - Le classement des nombres se réfère de manière constante à l'ordre des naturels.
+- Déterminer la valeur absolue d'un nombre entier.
+  - On montrera que la valeur abolue d'un nombre représente sa distance à l'origine de l'axe.
+- Reconnaître et écrire deux nombres opposés.
+  - Faire remarquer que "-x" est l'opposé de "x" et qu'il ne désigne pas toujours un nombre négatif.
+- Ranger en ordre croissant et décroissant des nombres entiers.
+- Comparer deux nombres entiers.
+- Placer un couple de nombres dans un repère cartésien.
+  - L'effet de quelques transformations sur les coordonnées pourra être mis en parallèle avec les opérations sur les entiers.
+    > Quelles sont les transformations possibles ? Quelles sont les opérations auxquelles ont doit les comparer ?
+  - Le repérage sur un quadrillage du plan pourra s'utiliser dans différentes parties du programme.
+    > Quelles parties ? De quel programme ?
