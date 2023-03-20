@@ -1,5 +1,9 @@
 # Notes Générales
 
+1) [Le MMR](#le-mmr)
+1) [Les 10 piliers ludiques](#les-10-piliers-ludiques)
+1) [Les piliers du jeu vidéo](#les-piliers-du-jeu-vidéo)
+
 ## Le MMR
 
 ### Table des matières
@@ -92,3 +96,67 @@ Il est donc nécessaire d'adapter le terme MMR pour le faire mieux correspondre 
 Néanmoins, par facilité, cette note sera écrite avec le terme MMR.
 
 <sup>2</sup> : Une idée supplémentaire est la création d'exercices "secrets", exercices auxquels seuls les joueurs ayant atteints un certain niveau de connaissance dans un niveau - ou une combinaison de niveaux - pourraient accéder.
+
+## Les 10 piliers ludiques
+
+### Table des matières
+
+### Sources
+
+- [Les 10 piliers ludiques](https://gusandco.net/2012/01/04/les-10-piliers-ludiques-conseils-pour-la-creation/)
+
+### Notes
+
+**Pilier 1 : Activité**. Ce pilier décrit le jeu et ses mécaniques principales. Il est important que le concepteur de jeu définisse correctement l'activité pour que les joueurs puissent se repérer et poser un cadre clair.
+
+**Pilier 2 : Profil du joueur**. Cet aspect comprend les traits du joueur, ses caractéristiques, intérêts. Comprendre et définir le type de joueurs à qui l'on destine son jeu permet de l'affiner. Voir les 5 dyades qui définissent tout profil de joueur.
+
+**Pilier 3 : Objectifs**. Ce pilier est important car tous les efforts des joueurs seront dirigés vers ce but. Ce qui est important à relever, c'est la différence entre objectifs à court terme et à long terme.  
+Il est intéressant de bien marquer cette division, ce qui motive encore plus les joueurs puisque le suivi est plus fort et que l'évolution plus marquée.
+
+**Pilier 4 : Compétences**. Toute activité requiert utilisation et développement de compétences. Quelles compétences seront requises pour jouer ?  
+Les compétences peuvent être rangées en trois catégories :
+
+- *Compétences physiques* : courir, sauter, etc.
+- *Compétences mentales* : logique, observation, mémoire, reconnaissance, etc.
+- *Compétences sociales* : sociabilité, conservation, ouverture d'esprit, etc.
+
+Il est donc nécessaire pour un auteur de jeu de véritablement cerner les compétences nécessaires pour pratiquer son jeu.  
+Il est également important de garder à l'esprit que toute activité se doit de poursuivre un schéma compris dans la ZPD, la Zone Proximale de Développement (ou "flow channel" en anglais). Quand on parle de ZPD, notion principalement utilisée en pédagogie, on parle de la zone de développement d'apprentissage positive comprise entre difficulté et compétences.  
+Si la difficulté d'un jeu est trop élevée par rapport aux compétences requises, le sentiment d'échec et l'anxiété ressentis seront plus importants, résultat à un effet négatif. Si la difficulté est trop faible par rapport aux compétences, le joueur ressentira un ennui, également désagréable.  
+Pour qu'un jeu reste dans cette ZPD, le professionnel du jeu devra réfléchir à adapter la difficulté, voir même à proposer des variantes. Le cas par exemple de la plupart des jeux de plateau coopératifs, voire même des jeux vidéo, qui proposent de jouer en mode rookie ou expert.
+
+**Pilier 5 : Résistance**. Ce pilier représente la force d'opposition trouvée dans le jeu. Si l'on sait que le jeu est trop facile et que l'on va de toute façon gagner, le jeu ne présente aucun intérêt.  
+Ces forces de résistance peuvent provenir de nombreuses sources différentes :
+
+- *Compétition*. Chercher à être plus fort que les autres est l'élément ludique moteur principal. Même dans un jeu coopératif il est question de venir à bout non pas des autres joueurs mais du jeu lui-même, qui remplit alors la fonction de joueur virtuel compétitif.
+- *Temps*. D'autres formes de résistance peuvent intervenir, tel qu'un temps limité à gérer, symbolisé par des sabliers par exemple, ce qu'on appelle alors la mécanique de "Countdown" (Compte à rebours en français) : un temps est attribué pour effectuer une tâche. Une fois le temps écoulé, la tâche est échouée.  
+Cette résistance temporelle peut également être exprimée par la mécanique de dynamique de rendez-vous (Appointment dynamics) : pour obtenir une récompense, il faut participer au jeu à un moment fixé.
+- *Rareté*. Moins vous possédez un élément, plus il est difficile à obtenir, et plus le jeu devient tendu, donc captivant.
+- *Énigmes*. Le jeu propose un problème à résoudre, un mystère à révéler. Pour avancer dans le jeu ou le remporter, les joueurs doivent trouver la solution. Il y a dans cette force de résistance un fort sentiment d'accomplissement quand le secret aura été découvert.
+- *Chance*. La chance est une autre force de résistance. Fortement dépréciée par la communauté de joueurs de société, elle est pourtant, en général, la force la plus présente dans les jeux. La chance représente une résistance contre laquelle les joueurs tentent de combattre par tous les moyens.  
+Si la chance est une force de résistance bien prégnante dans les jeux, il paraît impératif pour un auteur de jeux de réduire son impact, car trop présente, elle ne permet aucune stratégie, aucun choix, donc aucune utilisation de ses compétences. La chance offre toutefois un aspect fondamental aux jeux, son renouvèlement, des configurations à chaque fois différentes, mais surtout un phénomène de surprise, d'inconnu, pouvant résultat dans un sentiment positif d'attente et d'espoir.
+- *Pression sociale*. La pression sociale est une force de résistance qui nous pousse à nous comporter d'une certaine manière, de la manière de la majorité dans une circonstance pré-définie selon le jeu.
+- *Coopération*. Lié à l'aspect précédent de "pression sociale", la coopération comme force de résistance représente une difficulté à surpasser. Collaborer, partager, faire des compromis, il n'est jamais facile de travailler ou jouer en groupe : dissenssions, concessions, dynamiques et motivations propres à chacun, il faut gérer tous ces éléments.
+
+## Les piliers du jeu vidéo
+
+### Table des matiières
+
+- [Les quatre grands piliers d'un jeu vidéo](https://www.millenium.org/news/198491.html?page=4)
+
+### Pilier 1 : les mécaniques
+
+Les mécaniques sont l'ensemble des actions que le joueur pourra effectuer ainsi que les règles du jeu, les deux sont étroitement liés. La manière dont le joueur progressera dans votre jeu sera déterminée par ce facteur.
+
+### Pilier 2 : la technologie
+
+La technologie comprend le support (moteurs) sur lequel vous allez développer votre jeu, mais également la plateforme d'accueil. Pour citer quelques exemples de moteurs : Unreal Engine, Unity ou encore Frostbite.
+
+### Pilier 3 : l'esthétique
+
+L'esthétique est le regroupement des graphismes ainsi que de la direction artistique. Il s'agit simplement du feedback visuel du joueur, ce qu'il verra à l'action.
+
+### Pilier 4 : l'histoire
+
+Enfin, l'histoire : il ne s'agit pas du scénario à proprement parler mais plutôt de ce qui se passe dans le jeu. Par exemple, le jeu d'échec est une bataille entre deux camps, et Mario est un personnage qui doit aller à la fin du niveau.
