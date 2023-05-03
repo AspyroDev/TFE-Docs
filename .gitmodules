@@ -1,3 +1,6 @@
 [submodule "TFE-Prog"]
 	path = TFE-Prog
 	url = git@github.com:AspyroDev/TFE-Prog.git
+[submodule "TFE-Database"]
+	path = TFE-Database
+	url = https://github.com/AspyroDev/TFE-Database.git
